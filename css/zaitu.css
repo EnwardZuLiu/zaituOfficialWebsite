@@ -1,0 +1,31 @@
+.zai-footer{
+    margin-top: 50px;
+}
+.row-text-center{
+    text-align: center;
+}
+.img-a-size{
+    height:100px;width: 100px;
+}
+.border_divider{
+    border-top: 1px solid #E8E8E8;
+    box-shadow: 0px 1px 0px #FFF;
+    margin: 50px 10px 30px 10px;
+}
+.team_content{
+    border: 1px solid #DFDFDF;
+    padding: 10px;
+    font-size: 12px !important;
+    color: #666 !important;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+p.zai-p{
+    padding: 0px;
+    border: 0px none;
+    font: inherit;
+    vertical-align: baseline;
+    font-size: 16px !important;
+    color: #666 !important;
+}
