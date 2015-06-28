@@ -29,6 +29,14 @@ p.zai-p{
     font-size: 16px !important;
     color: #666 !important;
 }
+
+.footer{
+    color: #777;
+    padding: 30px 0px;
+    border-top: 1px solid #E5E5E5;
+    margin-top: 70px;
+}
+
 <!-- start -->
 *{ margin:0; padding:0; list-style:none;}
 img{ border:0;}
