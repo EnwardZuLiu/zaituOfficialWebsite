@@ -48,12 +48,12 @@ p.zai-p{
 *{ margin:0; padding:0; list-style:none;}
 img{ border:0;}
 
-.rides-cs {  font-size: 12px; background:#29a7e2; position: fixed; top: 250px; right: 0px; _position: absolute; z-index: 1500; border-radius:6px 0px 0 6px;}
+.rides-cs {  height:284px;font-size: 12px; background:#29a7e2; position: fixed; top: 250px; right: 0px; _position: absolute; z-index: 1500; border-radius:6px 0px 0 6px;}
 .rides-cs a { color: #00A0E9;}
 .rides-cs a:hover { color: #ff8100; text-decoration: none;}
 .rides-cs .floatL { width: 36px; float:left; position: relative; z-index:1;margin-top: 21px;height: 181px;}
 .rides-cs .floatL a { font-size:0; text-indent: -999em; display: block;}
-.rides-cs .floatR { width: 130px; float: left; padding: 5px; overflow:hidden;}
+.rides-cs .floatR { display: none;height:275px;width: 140px; float: left; padding: 5px; overflow:hidden;}
 .rides-cs .floatR .cn {background:#F7F7F7; border-radius:6px;margin-top:4px;}
 .rides-cs .cn .titZx{ font-size: 14px; color: #333;font-weight:600; line-height:24px;padding:5px;text-align:center;margin: auto;}
 .rides-cs .cn ul {padding:0px;}
